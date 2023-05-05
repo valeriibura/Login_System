@@ -1,0 +1,179 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(39,57): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(39,49): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "NTSTATUS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(40,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(40,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(40,18): error C2378: NTSTATUS: переопределение; символ нельзя перегрузить typedef
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(39): message : см. объявление "NTSTATUS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(40,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(198,13): error C3646: dwMinLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(198,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(199,13): error C3646: dwMaxLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(199,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(200,13): error C3646: dwIncrement: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(200,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(207,13): error C3646: cbOID: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(207,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(208,13): error C3646: pbOID: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(208,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(213,17): error C3646: dwOIDCount: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(213,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(219,13): error C3646: pszAlgId: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(219,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(224,13): error C3646: pszAlgId: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(224,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(225,13): error C3646: cbSalt: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(225,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(230,13): error C3646: pszAlgId: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(230,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(231,14): error C3646: pbLabel: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(231,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(232,13): error C3646: cbLabel: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(232,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(242,17): error C3646: cbSize: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(242,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(243,17): error C3646: dwInfoVersion: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(243,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(244,17): error C3646: pbNonce: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(244,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(245,17): error C3646: cbNonce: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(245,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(246,17): error C3646: pbAuthData: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(246,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(247,17): error C3646: cbAuthData: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(247,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(248,17): error C3646: pbTag: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(248,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(249,17): error C3646: cbTag: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(249,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(250,17): error C3646: pbMacContext: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(250,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(251,17): error C3646: cbMacContext: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(251,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(252,17): error C3646: cbAAD: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(252,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(253,17): error C3646: cbData: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(253,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(254,17): error C3646: dwFlags: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(254,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(396,13): error C3646: cbBuffer: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(396,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(397,13): error C3646: BufferType: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(397,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(398,13): error C3646: pvBuffer: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(398,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(402,13): error C3646: ulVersion: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(402,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(403,13): error C3646: cBuffers: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(403,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(411,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(411,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "BCRYPT_HANDLE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(426,13): error C3646: Magic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(426,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(448,13): error C3646: Magic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(448,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(449,13): error C3646: BitLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(449,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(450,13): error C3646: cbPublicExp: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(450,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(451,13): error C3646: cbModulus: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(451,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(452,13): error C3646: cbPrime1: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(452,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(453,13): error C3646: cbPrime2: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(453,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(514,13): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(514,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(515,13): error C3646: cbKey: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(515,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(522,13): error C3646: dwCurveType: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(522,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(523,13): error C3646: cbKey: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(523,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(545,29): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(545,36): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(546,29): error C3646: dwVersion: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(546,38): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(549,29): error C3646: cbFieldLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(549,42): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(550,29): error C3646: cbSubgroupOrder: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(550,44): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(551,29): error C3646: cbCofactor: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(551,39): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(552,29): error C3646: cbSeed: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(552,35): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(580,13): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(580,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(581,13): error C3646: cbKey: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(581,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(591,21): error C3646: cbLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(591,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(592,21): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(592,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(593,21): error C3646: cbKeyLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(593,32): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(617,13): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(617,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(618,13): error C3646: cbKey: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(618,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(619,13): error C3646: Count: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(619,18): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(619,21): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(620,13): error C3646: Seed: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(620,17): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(620,21): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(621,13): error C3646: q: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(621,14): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(621,18): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(640,45): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(640,52): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(641,45): error C3646: cbKey: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(641,50): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(644,45): error C3646: cbSeedLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(644,57): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(645,45): error C3646: cbGroupSize: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(645,56): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(646,45): error C3646: Count: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(646,50): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(646,53): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(652,13): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(652,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(653,13): error C3646: dwVersion: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(653,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(654,13): error C3646: cbKeyData: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(654,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(672,21): error C3646: cbLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(672,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(673,21): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(673,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(674,21): error C3646: cbKeyLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(674,32): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(675,21): error C3646: Count: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(675,26): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(675,29): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(676,21): error C3646: Seed: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(676,25): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(676,29): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(677,21): error C3646: q: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(677,22): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(677,26): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(683,29): error C3646: cbLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(683,37): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(684,29): error C3646: dwMagic: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(684,36): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(685,29): error C3646: cbKeyLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(685,40): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(688,29): error C3646: cbSeedLength: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(688,41): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(689,29): error C3646: cbGroupSize: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(689,40): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(690,29): error C3646: Count: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(690,34): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(690,37): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(704,13): error C3646: dwEccCurveNames: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(704,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(705,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(705,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(705,28): error C2238: непредвиденные лексемы перед ";"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(775,61): error C3646: iHash: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\bcrypt.h(775,66): fatal  error C1003: число ошибок превышает 100; остановка компиляции
